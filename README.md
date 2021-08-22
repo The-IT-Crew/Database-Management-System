@@ -1,6 +1,7 @@
 # Database-Management-System
 
-**development branch**
+**Branch Name:** development
+
 A simple console based database management system using c++
 
 ## Contribution 
