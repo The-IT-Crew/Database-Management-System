@@ -8,7 +8,7 @@ the project contains three mejor branch.
 
 ![branching.png](./branching.png)
 
-Please, do not commit any changes to main and development branch. Make separete branch with `gh-` prefix and your `github username` from development and start developing.
+Please, do not commit any changes to main and development branch. Make separete branch with `gh-` prefix and your `github username` from `development branch` and start developing.
 
 ----
 
