@@ -16,7 +16,7 @@ Please, do not commit any changes to main and development branch. Make separete 
 
 To contribute this project, follow the steps.
 
-- Fork this project to your account. (make sure you have git installed in your machine and configured properly)
+- Fork this project to your account. Then clone it to your local reposetory. (make sure you have git installed in your machine and configured properly)
 ```sh
 git clone https://github.com/The-IT-Crew/Database-Management-System.git
 ```
